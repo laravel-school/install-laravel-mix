@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81c80e02-ef9d-4f22-94df-1a825a54efd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605365617886</updated>
-      <workItem from="1605365618979" duration="850000" />
+      <workItem from="1605365618979" duration="967000" />
     </task>
     <servers />
   </component>
@@ -70,5 +69,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="71" width="670" height="676" key="search.everywhere.popup" timestamp="1605367279172">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="305" y="71" width="670" height="676" key="search.everywhere.popup/0.23.1280.724@0.23.1280.724" timestamp="1605367279172" />
   </component>
 </project>
